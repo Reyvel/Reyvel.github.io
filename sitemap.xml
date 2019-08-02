@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://reyvel.github.io/about/</loc>
+    <lastmod>2019-04-17T21:43:31+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://reyvel.github.io/</loc>
+    <lastmod>2019-04-17T21:43:31+07:00</lastmod>
     <priority>0</priority>
   </url>
   

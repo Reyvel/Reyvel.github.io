@@ -7,9 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 17 Apr 2019 21:43:31 +0700</lastBuildDate>
     
 	<atom:link href="https://reyvel.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://reyvel.github.io/about/</link>
+      <pubDate>Wed, 17 Apr 2019 21:43:31 +0700</pubDate>
+      
+      <guid>https://reyvel.github.io/about/</guid>
+      <description>“Someone once told me the definition of hell; on your last day on earth, the person you could have become will meet the person you became.” - Anonymous
+Time is the currency of life. It holds the power to buy happiness, it has an ability to enhance any skill, it molds habit, it constructs a person, it&amp;rsquo;s the building block of success. One of the greatest loss is, when we are unable to take advantage of our valuable time in order to forge ourself to be a better person.</description>
+    </item>
     
   </channel>
 </rss>
